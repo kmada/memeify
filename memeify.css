@@ -1,0 +1,20 @@
+.memeify {
+	opacity: 0.6;
+}
+.image-wrapper {
+	position: relative;
+}
+.meme-text {
+	position: absolute;
+	left: 0;
+	top: 20%;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-family: "Impact";
+	text-align: center;
+	color: #fff;
+	-webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+	text-shadow: 0 0 0.2em; #ddd;
+}
